@@ -1,0 +1,10 @@
+C:\Users\XNA\source\repos\ihatebmp\bin\Debug\ihatebmp.exe.config
+C:\Users\XNA\source\repos\ihatebmp\bin\Debug\ihatebmp.exe
+C:\Users\XNA\source\repos\ihatebmp\bin\Debug\ihatebmp.pdb
+C:\Users\XNA\source\repos\ihatebmp\obj\Debug\ihatebmp.csproj.AssemblyReference.cache
+C:\Users\XNA\source\repos\ihatebmp\obj\Debug\ihatebmp.Form1.resources
+C:\Users\XNA\source\repos\ihatebmp\obj\Debug\ihatebmp.Properties.Resources.resources
+C:\Users\XNA\source\repos\ihatebmp\obj\Debug\ihatebmp.csproj.GenerateResource.cache
+C:\Users\XNA\source\repos\ihatebmp\obj\Debug\ihatebmp.csproj.CoreCompileInputs.cache
+C:\Users\XNA\source\repos\ihatebmp\obj\Debug\ihatebmp.exe
+C:\Users\XNA\source\repos\ihatebmp\obj\Debug\ihatebmp.pdb
