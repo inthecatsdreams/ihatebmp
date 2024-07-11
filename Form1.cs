@@ -9,6 +9,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Drawing.Imaging;
 using System.Windows.Forms;
+using System.Diagnostics;
+
 
 namespace ihatebmp
 {
@@ -46,7 +48,8 @@ namespace ihatebmp
                 try
                 {
                     lol.Save(newName, ImageFormat.Png);
-                    MessageBox.Show("Image file saved to " + newName.ToString(), "Image Saved", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("Image file saved to " + newName.ToString() + " in " + Directory.GetCurrentDirectory(), "Image Saved", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    
                 }
                 catch {
                     MessageBox.Show("Something went wrong");
